@@ -5,7 +5,7 @@ A data-driven real estate appraisal web application built to estimate residentia
 ---
 
 ### 🚀 Live Demo
-👉 **[Deploy on Streamlit Cloud](https://smart-real-estate.streamlit.app/)**
+👉 **[Launch Live Web App](https://smart-real-estate.streamlit.app/)**
 
 ---
 
