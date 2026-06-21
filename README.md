@@ -1,7 +1,5 @@
 # 🏠 Multimodal Real Estate Valuation Engine
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://smart-real-estate.streamlit.app/)
-
 A data-driven real estate appraisal web application built to estimate residential property values across major Indian micro-markets. The system compounds localized market baselines with custom structural configurations and property age depreciation factors.
 
 ---
